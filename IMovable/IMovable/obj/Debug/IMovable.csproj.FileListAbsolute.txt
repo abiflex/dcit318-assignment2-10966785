@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\IMovable\IMovable\bin\Debug\IMovable.exe.config
+C:\Users\HP\source\repos\IMovable\IMovable\bin\Debug\IMovable.exe
+C:\Users\HP\source\repos\IMovable\IMovable\bin\Debug\IMovable.pdb
+C:\Users\HP\source\repos\IMovable\IMovable\obj\Debug\IMovable.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IMovable\IMovable\obj\Debug\IMovable.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IMovable\IMovable\obj\Debug\IMovable.exe
+C:\Users\HP\source\repos\IMovable\IMovable\obj\Debug\IMovable.pdb
